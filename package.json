@@ -38,6 +38,7 @@
   "lint-staged": {
     "src/**/*.{html,vue}": [
       "stylelint **/*.{html,vue} --fix",
+      "eslint --fix",
       "git add"
     ]
   }
