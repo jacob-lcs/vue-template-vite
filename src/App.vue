@@ -69,7 +69,6 @@
 <style scoped lang="scss">
 .layout-container {
   height: 100vh;
-  height: 100vh;
 
   .main-container {
     height: 100vh;
